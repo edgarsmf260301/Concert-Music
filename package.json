@@ -1,0 +1,23 @@
+{
+  "name": "concert-music",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch src/scss:build/css",
+    "dev": "gulp dev"
+  },
+  "keywords": [
+    "SASS",
+    "NPM",
+    "Gulp"
+  ],
+  "author": "Edgar Martinez",
+  "license": "ISC",
+  "description": "",
+  "type": "module",
+  "devDependencies": {
+    "gulp": "^5.0.0",
+    "gulp-sass": "^6.0.0",
+    "sass": "^1.83.4"
+  }
+}
